@@ -1,3 +1,4 @@
 for vectors--
 
 sort( a.begin() , a.end() );
+reverse( a.begin() , a.end() );
