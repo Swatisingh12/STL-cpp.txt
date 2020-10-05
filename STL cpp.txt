@@ -1,3 +1,4 @@
 for vectors--
 
-sort( a.begin() , a.end() );
+sort( a.begin() , a.end() );        // sort a vector
+
