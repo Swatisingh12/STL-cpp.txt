@@ -1,0 +1,3 @@
+for vectors--
+
+sort( a.begin() , a.end() );
